@@ -1,0 +1,1 @@
+plot(time, mean(twinNitrogen.X_a_A))
